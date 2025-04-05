@@ -1,0 +1,2 @@
+# bili_monitor
+适用于Gscore的Bilibili直播开播提醒插件
